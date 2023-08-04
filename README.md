@@ -1,2 +1,2 @@
 # Tableau-for-Data-Analytics-basics
-Covers two small projects with basic understanding to kick start with tableau 
+Covers a few small projects with a basic understanding to kick start with Tableau 
